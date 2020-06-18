@@ -1,5 +1,5 @@
 # This repositry contains solutions of Hacker Rank Problems
-## problem list 
+## Problem Solution list 
 
 
 * Breaking the Records
