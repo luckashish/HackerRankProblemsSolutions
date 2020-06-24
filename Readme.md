@@ -5,3 +5,5 @@
 * Breaking the Records
 * The Time in Words
 * Migratory Birds
+* Karsha has a problem
+* Cut the sticks
