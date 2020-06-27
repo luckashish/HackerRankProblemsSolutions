@@ -21,6 +21,18 @@ import sys
 
 def maxXorValue(x, k):
     # Write your code here
+    ans = ''
+    for i in x:
+        if k > 0:
+            if '0' == i:
+                ans += '1'
+                k -= 1
+            else:
+                ans += '0'
+        else:
+            ans += '0'
+    return ans
+                
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
